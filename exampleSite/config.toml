@@ -4,12 +4,12 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "Meghna"
+title = "Werbetechnik Fleps"
 [Languages.en]
-contentDir = "content/english"
+contentDir = "content/german"
 home = "Home"
-languageCode = "en-us"
-languageName = "En"
+languageCode = "de-de"
+languageName = "DE"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
